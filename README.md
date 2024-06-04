@@ -1,11 +1,15 @@
 # Scene-Aware Attention Network for Diverse Fire Classification Using Medium-Scale Drone Dataset
 This paper has been submitted to [Alexandria Engineering Journal](https://www.sciencedirect.com/journal/alexandria-engineering-journal)
 
-## 1 Dataset
-The datasets can be downloaded from the following links. We follow the training and testing data similar to the previous methods.
+## 1 Paper Link 
 
-Option 1: Download Drone Vision Fire dataset from given link: Click here
+## 2 Dataset
+The datasets can be downloaded from the following links.
 
-Option 2: Download Foggia’s dataset from given link: Click here
+Option 1: The proposed Drone Vision Fire dataset Download from given link: Click here
 
-Option 3: The proposed FireNet DFAN dataset Click here
+Option 2: Download Foggia’s dataset from the given link: Click [here](https://mivia.unisa.it/datasets/video-analysis-datasets/fire-detection-dataset/)
+
+Option 3:  Downlod FireNet dataset from the given link Click [here](https://github.com/arpit-jadon/FireNet-LightWeight-Network-for-Fire-Detection?tab=readme-ov-file)
+
+## 3 Citation and Acknowledgements
