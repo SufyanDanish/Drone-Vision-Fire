@@ -1,5 +1,5 @@
 # Scene-Aware Attention Network for Diverse Fire Classification Using Medium-Scale Drone Dataset
-This paper has been submitted to [Alexandria Engineering Journal](https://www.sciencedirect.com/journal/alexandria-engineering-journal)
+
 
 ## 1 Paper Link 
 
