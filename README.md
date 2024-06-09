@@ -1,4 +1,4 @@
-# Scene-Aware Attention Network for Diverse Fire Classification Using Medium-Scale Drone Dataset
+# Scene-Aware Attention Network and Medium-Scale Drone Dataset for Diverse Fire Classification
 
 
 ## 1 Paper Link 
